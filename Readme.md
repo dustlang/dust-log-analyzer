@@ -1,4 +1,4 @@
-# Rust Log Analyzer
+# Dust Log Analyzer
 
 The **Rust Log Analyzer** (**RLA**) is a tool that analyzes the CI build logs of the [rust-lang/rust](https://github.com/rust-lang/rust) repository with the purpose of automatically extracting error messages from failed builds.
 
